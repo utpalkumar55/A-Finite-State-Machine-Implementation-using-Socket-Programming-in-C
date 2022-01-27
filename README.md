@@ -1,4 +1,4 @@
-# Simple Finite State Machine Implementation using Socket Programming in C
+# A Finite State Machine Implementation using Socket Programming in C
 This project implements C program to support a client/server model using Linux sockets following this finite state machine (FSM) [Finite State Machine.pdf](https://github.com/utpalkumar55/Simple-Finite-State-Machine-Implementation-using-Socket-Programming-in-C/files/7818561/Finite.State.Machine.pdf)
 . The program consists of a server that implements a service using a simple text protocol that clients can use (through telnet) to see who is available on the service. A user can connect to the server using any separate machine by using the telnet service.
 
